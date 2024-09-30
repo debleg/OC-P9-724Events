@@ -141,16 +141,16 @@ const Page = () => {
         <div>01 23 45 67 89</div>
         <div>contact@724events.com</div>
         <div>
-          <a href="#twitch">
+          <a href="https://www.twitch.tv/" target="_blank" rel="noopener noreferrer">
             <Icon name="twitch" />
           </a>
-          <a href="#facebook">
+          <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
             <Icon name="facebook" />
           </a>
-          <a href="#twitter">
+          <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
             <Icon name="twitter" />
           </a>
-          <a href="#youtube">
+          <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
             <Icon name="youtube" />
           </a>
         </div>
